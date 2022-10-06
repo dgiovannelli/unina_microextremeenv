@@ -1,4 +1,4 @@
-# <img src="https://dgiovannelli.github.io//images/logopic/giovannellilab.png" width="60 px"> Marine Microbial Diversity
+# <img src="https://dgiovannelli.github.io//images/logopic/giovannellilab.png" width="60 px"> Microbiology of Extreme Environments
 ## Course material for the graduate course in "Microbiology of Extreme Environments" (8 CFU), part of the Master Degree program in Biology of Extreme Environments at the University of Naples Federico II
 
 [![forthebadge](https://forthebadge.com/images/badges/cc-by.svg)](https://creativecommons.org/licenses/by/4.0/)
