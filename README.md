@@ -15,7 +15,7 @@ Introductory class in the Microbiology of Extreme Environments for graduate stud
 
 In the repository you'll find the different version of the class relative to each academic year. I always try to improve the class material year on year, so I suggest if interested to use the latest available year.
 
-<img src="https://github.com/dgiovannelli/unina_marinemicro/blob/main/extrememicro_cover.png" width="80%">
+<img src="https://github.com/dgiovannelli/unina_microextremeenv/blob/main/extrememicro_cover.png" width="80%">
 
 ### DISCLAIMER
 
